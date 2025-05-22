@@ -49,3 +49,5 @@
     Inside integrated terminal, there will be a URL -> **Local: http://localhost:5173/** copy that URL and paste into browser of your choice
 
     **This will succesfully run our React project !!**
+
+    Last Yt video and timestamp : Hooks- video 05 and timestamp: 17:46
